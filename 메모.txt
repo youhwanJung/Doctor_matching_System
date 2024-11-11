@@ -1,0 +1,16 @@
+MessageBox.Show("회원가입이 완료되었습니다!");
+
+this.FormClosed += (s, args) => Application.Exit();
+
+Application.Exit();
+
+this.Close();
+
+Patient_Login_Form patient_login_form = new Patient_Login_Form();
+            patient_login_form.ShowDialog();
+
+
+epuchi
+
+NamDoHyeon2
+

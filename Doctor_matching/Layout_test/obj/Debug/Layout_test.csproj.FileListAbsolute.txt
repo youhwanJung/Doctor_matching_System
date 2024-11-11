@@ -1,0 +1,10 @@
+C:\Users\bak33\OneDrive\바탕 화면\C#_Project\Doctor_matching\Layout_test\bin\Debug\Layout_test.exe.config
+C:\Users\bak33\OneDrive\바탕 화면\C#_Project\Doctor_matching\Layout_test\bin\Debug\Layout_test.exe
+C:\Users\bak33\OneDrive\바탕 화면\C#_Project\Doctor_matching\Layout_test\bin\Debug\Layout_test.pdb
+C:\Users\bak33\OneDrive\바탕 화면\C#_Project\Doctor_matching\Layout_test\obj\Debug\Layout_test.csproj.AssemblyReference.cache
+C:\Users\bak33\OneDrive\바탕 화면\C#_Project\Doctor_matching\Layout_test\obj\Debug\Layout_test.Form1.resources
+C:\Users\bak33\OneDrive\바탕 화면\C#_Project\Doctor_matching\Layout_test\obj\Debug\Layout_test.Properties.Resources.resources
+C:\Users\bak33\OneDrive\바탕 화면\C#_Project\Doctor_matching\Layout_test\obj\Debug\Layout_test.csproj.GenerateResource.cache
+C:\Users\bak33\OneDrive\바탕 화면\C#_Project\Doctor_matching\Layout_test\obj\Debug\Layout_test.csproj.CoreCompileInputs.cache
+C:\Users\bak33\OneDrive\바탕 화면\C#_Project\Doctor_matching\Layout_test\obj\Debug\Layout_test.exe
+C:\Users\bak33\OneDrive\바탕 화면\C#_Project\Doctor_matching\Layout_test\obj\Debug\Layout_test.pdb

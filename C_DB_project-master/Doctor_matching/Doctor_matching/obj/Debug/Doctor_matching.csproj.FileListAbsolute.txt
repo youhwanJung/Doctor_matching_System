@@ -1,0 +1,10 @@
+C:\Users\bak33\OneDrive\바탕 화면\C#_Project\Doctor_matching\Doctor_matching\bin\Debug\Doctor_matching.exe.config
+C:\Users\bak33\OneDrive\바탕 화면\C#_Project\Doctor_matching\Doctor_matching\bin\Debug\Doctor_matching.exe
+C:\Users\bak33\OneDrive\바탕 화면\C#_Project\Doctor_matching\Doctor_matching\bin\Debug\Doctor_matching.pdb
+C:\Users\bak33\OneDrive\바탕 화면\C#_Project\Doctor_matching\Doctor_matching\obj\Debug\Doctor_matching.csproj.AssemblyReference.cache
+C:\Users\bak33\OneDrive\바탕 화면\C#_Project\Doctor_matching\Doctor_matching\obj\Debug\Doctor_matching.Form1.resources
+C:\Users\bak33\OneDrive\바탕 화면\C#_Project\Doctor_matching\Doctor_matching\obj\Debug\Doctor_matching.Properties.Resources.resources
+C:\Users\bak33\OneDrive\바탕 화면\C#_Project\Doctor_matching\Doctor_matching\obj\Debug\Doctor_matching.csproj.GenerateResource.cache
+C:\Users\bak33\OneDrive\바탕 화면\C#_Project\Doctor_matching\Doctor_matching\obj\Debug\Doctor_matching.csproj.CoreCompileInputs.cache
+C:\Users\bak33\OneDrive\바탕 화면\C#_Project\Doctor_matching\Doctor_matching\obj\Debug\Doctor_matching.exe
+C:\Users\bak33\OneDrive\바탕 화면\C#_Project\Doctor_matching\Doctor_matching\obj\Debug\Doctor_matching.pdb
